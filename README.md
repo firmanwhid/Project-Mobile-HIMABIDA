@@ -148,4 +148,4 @@ dependencies {
 - Pengembang: [firmanwhid](https://github.com/firmanwhid)
 
 ---
-Dibuat dengan ❤️ oleh Tim HIMABIDA
+Dibuat dengan ❤️ oleh Kelompok 2
